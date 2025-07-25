@@ -101,6 +101,10 @@ section h3 {
   border-bottom: none;
 }
 
+.participants {
+  font-size: bold;
+}
+
 #signup-container {
   background-color: #fff;
   padding: 20px;
