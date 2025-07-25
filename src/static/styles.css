@@ -80,17 +80,21 @@ section h3 {
 
 .activity-card h4 {
   margin-top: 10px;
-  color: #5f458c;
+  color: #7743DB;
+  font-size: 1.1em;
+  margin-bottom: 5px;
 }
 
 .activity-card ul {
-  list-style-type: none;
-  padding: 0;
+  list-style-type: disc;
+  padding-left: 20px;
 }
 
 .activity-card ul li {
   padding: 5px 0;
   border-bottom: 1px dotted #ced4da;
+  font-size: 0.9em;
+  color: #555;
 }
 
 .activity-card ul li:last-child {
